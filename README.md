@@ -1,2 +1,2 @@
 # odin-recipes
-learning
+Small learning html project 
